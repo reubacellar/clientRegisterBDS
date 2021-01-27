@@ -1,0 +1,8 @@
+import javax.persistence.Entity;
+
+package com.reuel_dev.clientregister.entities;
+
+@Entity
+public class Client {
+
+}
