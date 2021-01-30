@@ -1,0 +1,5 @@
+package com.reuel_dev.clientregister.resources.exceptions;
+
+public class StandardError {
+
+}
